@@ -2417,6 +2417,71 @@
       "email": "akash123@gmail.com",
       "password": "password1234",
       "id": 6
+    },
+    {
+      "email": "akash123@gmail.com",
+      "password": "password1234",
+      "id": 7
+    },
+    {
+      "email": "akash123@gmail.com",
+      "password": "password1234",
+      "id": 8
+    },
+    {
+      "email": "akash123@gmail.com",
+      "password": "password1234",
+      "id": 9
+    },
+    {
+      "email": "akash123@gmail.com",
+      "password": "password1234",
+      "id": 10
+    },
+    {
+      "email": "akash123@gmail.com",
+      "password": "password1234",
+      "id": 11
+    },
+    {
+      "email": "akash123@gmail.com",
+      "password": "password1234",
+      "id": 12
+    },
+    {
+      "email": "akash123@gmail.com",
+      "password": "password1234",
+      "id": 13
+    },
+    {
+      "email": "akash123@gmail.com",
+      "password": "password1234",
+      "id": 14
+    },
+    {
+      "email": "akash123@gmail.com",
+      "password": "password1234",
+      "id": 15
+    },
+    {
+      "email": "akash123@gmail.com",
+      "password": "password1234",
+      "id": 16
+    },
+    {
+      "email": "akash123@gmail.com",
+      "password": "password1234",
+      "id": 17
+    },
+    {
+      "email": "akash123@gmail.com",
+      "password": "password1234",
+      "id": 18
+    },
+    {
+      "email": "akash123@gmail.com",
+      "password": "password1234",
+      "id": 19
     }
   ],
   "cart": [
@@ -2459,6 +2524,131 @@
       "product": 6,
       "quantity": 1,
       "id": 5
+    },
+    {
+      "product": 2,
+      "quantity": 1,
+      "id": 6
+    },
+    {
+      "product": 8,
+      "quantity": 1,
+      "id": 7
+    },
+    {
+      "product": 8,
+      "quantity": 1,
+      "id": 8
+    },
+    {
+      "product": 8,
+      "quantity": 1,
+      "id": 9
+    },
+    {
+      "product": 8,
+      "quantity": 1,
+      "id": 10
+    },
+    {
+      "product": 7,
+      "quantity": 2,
+      "id": 11
+    },
+    {
+      "product": 5,
+      "quantity": 1,
+      "id": 12
+    },
+    {
+      "product": 8,
+      "quantity": 1,
+      "id": 13
+    },
+    {
+      "product": 5,
+      "quantity": 1,
+      "id": 14
+    },
+    {
+      "product": 5,
+      "quantity": 3,
+      "id": 15
+    },
+    {
+      "product": 5,
+      "quantity": 1,
+      "id": 16
+    },
+    {
+      "product": 9,
+      "quantity": 1,
+      "id": 17
+    },
+    {
+      "product": 9,
+      "quantity": 1,
+      "id": 18
+    },
+    {
+      "product": 6,
+      "quantity": 1,
+      "id": 19
+    },
+    {
+      "product": 6,
+      "quantity": 1,
+      "id": 20
+    },
+    {
+      "item": {
+        "product": 6,
+        "quantity": 1
+      },
+      "id": 21
+    },
+    {
+      "item": {
+        "product": 5,
+        "quantity": 1
+      },
+      "id": 22,
+      "quantity": 4
+    },
+    {
+      "item": {
+        "product": 8,
+        "quantity": 1
+      },
+      "id": 23
+    },
+    {
+      "item": {
+        "product": 16,
+        "quantity": 1
+      },
+      "id": 24
+    },
+    {
+      "item": {
+        "product": 8,
+        "quantity": 1
+      },
+      "id": 25
+    },
+    {
+      "item": {
+        "product": 6,
+        "quantity": 1
+      },
+      "id": 26
+    },
+    {
+      "item": {
+        "product": 5,
+        "quantity": 1
+      },
+      "id": 27
     }
   ],
   "orders": [
